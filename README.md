@@ -1,0 +1,1 @@
+To see how it looks like, go [here](https://shawnm0705.github.io/price-table/)
